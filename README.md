@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/guavatak/susi-zsh-iterm/blob/master/preview.png)
 
-![alt text](https://github.com/carcruz/susi-zsh-iterm) 로 부터 fork 했으며, theme 색상을 일부 수정했습니다.
+https://github.com/carcruz/susi-zsh-iterm 로 부터 fork 했으며, theme 색상을 일부 수정했습니다.
 
 ## Installation
 
