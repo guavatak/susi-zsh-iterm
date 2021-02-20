@@ -1,11 +1,11 @@
-# Susi oh-my-zsh theme 
+# susi oh-my-zsh theme - macos iterm
 
 ![alt text](https://github.com/guavatak/susi-zsh-iterm/blob/master/preview.png)
 
 https://github.com/carcruz/susi-zsh-iterm 로 부터 fork 했으며, 
 
 * theme 색상을 일부 수정했습니다.
-* itemr color 를 추가했습니다.
+* iterm color 를 추가했습니다.
 
 ## Installation
 
